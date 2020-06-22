@@ -1,0 +1,2 @@
+rootProject.name='Tablet1_video'
+include ':app'

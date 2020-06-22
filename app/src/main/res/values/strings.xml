@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Tablet 3 Video Call durch Sensor - Industrie</string>
+
+    <string name="digital">DIGITALISIERUNG </string>
+    <string name="dialog_ask_to_turn_touch_on"> in order to turn on the touch interaction on and close the application, press yes</string>
+    <string name="dialog_allow">yes</string>
+    <string name="dialog_dismiss">no</string>
+
+
+    <string name="videoBtn">                start the cell video        </string>
+    <string name="sensor_video_industry">   start the industry 4.0 video</string>
+    <string name="sensor_video_truck">      start the truck video       </string>
+
+</resources>
